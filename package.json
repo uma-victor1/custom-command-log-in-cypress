@@ -1,0 +1,19 @@
+{
+  "name": "cypressgettext",
+  "version": "1.0.0",
+  "description": "This repo contains automation test on lambdaTest teaching how to get text element using cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "getText",
+    "get",
+    "text",
+    "cypress",
+    "lmabdaTest",
+    "testing"
+  ],
+  "author": "Uma Victor",
+  "license": "MIT"
+}
