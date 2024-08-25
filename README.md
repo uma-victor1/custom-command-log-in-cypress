@@ -1,12 +1,11 @@
-# Get Element text with Cypress
+# Improve Your custom Command logs in Cypress
 
 ### [Live Site](https://ecommerce-playground.lambdatest.io/)
 
 In this tutorial, we have covered:
 
-- How to get element text in Cypress
-- Use alias and Invoke command
-- Use variables to store values for later tests
+- How to improve custom command logs in Cypress
+- create custom messages
 - Scenarios were this will be useful
 
 ## Pre-requisites
@@ -16,8 +15,8 @@ Before we get started, make sure to clone this project. You can run your first C
 - **Step 1:** Clone this repo and navigate to the cloned directory.
 
   ```bash
-  git clone https://github.com/uma-victor1/lambdatest-get-text-tutorial.git
-  cd lambdatest-get-text-tutorial
+  git clone https://github.com/uma-victor1/custom-command-log-in-cypress.git
+  cd custom-command-log-in-cypress
   ```
 
 - **Step 2: Installing the LambdaTest CLI -**
